@@ -4,3 +4,4 @@ torch
 notebook
 pandas
 numpy
+matplotlib
